@@ -1,7 +1,7 @@
 import mlagents
 from mlagents_envs.environment import UnityEnvironment as UE
 
-env = UE(file_name='RollerballBuild', seed=1, side_channels=[])
+env = UE(file_name='Ex_1', seed=1, side_channels=[])
 
 env.reset()
 

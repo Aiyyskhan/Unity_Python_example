@@ -388,7 +388,7 @@ MonoBehaviour:
   agentParameters:
     maxStep: 0
   hasUpgradedFromAgentParameters: 1
-  MaxStep: 0
+  MaxStep: 5000
   Target: {fileID: 5645506521845473902}
   forceMultiplier: 10
 --- !u!114 &5645506522924289241
@@ -410,7 +410,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
   m_Model: {fileID: 0}
-  m_InferenceDevice: 0
+  m_InferenceDevice: 1
   m_BehaviorType: 0
   m_BehaviorName: RollerBall
   TeamId: 0
