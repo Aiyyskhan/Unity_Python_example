@@ -12,6 +12,9 @@
 [Aa]ctual[Ii]mages.meta
 [Ss]treaming[Aa]ssets.meta
 
+*.ipynb_checkpoints/
+*_Data/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
@@ -39,7 +42,6 @@ ExportedObj/
 
 # VSCode hidden files
 *.vscode/
-.vscode
 
 # Unity3D generated meta files
 *.pidb.meta
