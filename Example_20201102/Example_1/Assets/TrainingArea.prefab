@@ -388,7 +388,7 @@ MonoBehaviour:
   agentParameters:
     maxStep: 0
   hasUpgradedFromAgentParameters: 1
-  MaxStep: 5000
+  MaxStep: 0
   Target: {fileID: 5645506521845473902}
   forceMultiplier: 10
 --- !u!114 &5645506522924289241
